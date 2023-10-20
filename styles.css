@@ -1,0 +1,50 @@
+/* Estilo para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para el contenedor principal */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo de imagen */
+img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
+/* Estilo para encabezados */
+h1, h2 {
+    color: #333;
+}
+
+/* Estilo para texto fuerte (negritas) */
+p strong {
+    font-weight: bold;
+}
+
+/* Estilo para párrafos */
+p {
+    color: #555;
+    line-height: 1.5;
+}
+
+/* Estilo para la sección de Descripción Personal */
+h2 {
+    color: #333;
+    margin-top: 20px;
+}
+
